@@ -6,11 +6,14 @@
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
+    "lint": "eslint",
+    "lint:fix": "eslint --fix",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
     "@nuxt/eslint": "^1.4.1",
+    "@vite-pwa/nuxt": "^1.0.4",
     "eslint": "^9.28.0",
     "nuxt": "^3.17.5"
   },
