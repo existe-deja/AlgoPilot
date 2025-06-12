@@ -1,19 +1,19 @@
 {
   "name": "Algomed Pilot",
-  "short_name": "AP",
-  "description": "A smooth algorithm to take decisions",
-  "start_url": "/",
+  "short_name": "Algomed Pilot",
+  "description": "A modern way of taking decisions",
+  "start_url": "/AlgoPilot/",
   "display": "standalone",
   "background_color": "#3498db",
   "theme_color": "#3498db",
   "icons": [
     {
-      "src": "/icon-192.png",
+      "src": "/AlgoPilot/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/icon-512.png",
+      "src": "/AlgoPilot/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }

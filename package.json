@@ -1,5 +1,6 @@
 {
-  "name": "nuxt-app",
+  "name": "algomed-pilot",
+  "description": "A modern way of taking decisions",
   "private": true,
   "type": "module",
   "scripts": {
