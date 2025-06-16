@@ -4,13 +4,14 @@
   </span>
 </template>
 
-<style>
+<style scoped>
 .result {
-  color: white;
-  display: flex;
   display: flex;
   justify-content: center;
   align-items: center;
-  text-shadow: 1px 1px rgba(0, 0, 0, 0.66);
+  text-wrap: pretty;
+  text-align: center;
+  padding: 0 1em;
+  font-size: 1.5em;
 }
 </style>
